@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yuzhigang33.github.io/atom.xml" rel="self"/>
   <link href="http://yuzhigang33.github.io/"/>
-  <updated>2013-08-08T22:01:48+08:00</updated>
+  <updated>2013-08-08T22:18:02+08:00</updated>
   <id>http://yuzhigang33.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,13 @@
     <link href="http://yuzhigang33.github.io/blog/2013/08/08/cyu-yan-de-li-shi-yu-fa-zhan/"/>
     <updated>2013-08-08T22:01:00+08:00</updated>
     <id>http://yuzhigang33.github.io/blog/2013/08/08/cyu-yan-de-li-shi-yu-fa-zhan</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>1 出生</h2>
+
+<h2>2 发展</h2>
+
+<h2>3 C++</h2>
+
+<h2>4 经久不衰</h2>
 ]]></content>
   </entry>
   
